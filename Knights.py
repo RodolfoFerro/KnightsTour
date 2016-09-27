@@ -81,7 +81,7 @@ def ifSolution(Board,N):
 	return True
 
 # Inicializamos las variables:
-N = int(input("Introduce N size of the board (NxN): "))
+N = int(input("Enter N, size of the board (NxN): "))
 positionx = int(input("Enter initial x position: "))%N
 positiony = int(input("Enter initial y position: "))%N
 x = positionx
