@@ -1,6 +1,7 @@
 # Knights Tour Problem
 
 Knights Tour solved using Python.
+
 (And graphically with PyGame.)
 
 ### Requirements:
@@ -9,4 +10,9 @@ Knights Tour solved using Python.
 - [Numpy](http://www.numpy.org/)
 
 ## About
+
+This program was made as part of the very first homework of a course taken back in 2015.
+
+The way the problem was solved is using backtracking and recursion, applying the Wansdorff's rule.
+
 ![Knights Tour](https://github.com/RodolfoFerro/KnightsTour/blob/master/Knights.gif "Knights Tour")
