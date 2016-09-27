@@ -9,3 +9,4 @@ Knights Tour solved using Python.
 - [Numpy](http://www.numpy.org/)
 
 ## About
+![Knights Tour](https://github.com/RodolfoFerro/KnightsTour/blob/master/Knights.gif)
